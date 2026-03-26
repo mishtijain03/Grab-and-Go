@@ -3,7 +3,7 @@ Project built to simplify food ordering experience in a university
 
 Group project, Made By: ** Mishti Jain,Bhumika kukreja, Mohini Chauhan, Nikki Chauhan**
 
-#Project Description
+# Project Description
 
 Hungry but stuck in a never-ending canteen queue? Say hello to Grab&Go — your ticket to skipping the line and grabbing a hot meal in seconds!
 Grab&Go is a web app that lets you pre-order from multiple cafeterias at once. Built with HTML, CSS, JavaScript and backed by a PostgreSQL database, it handles:
